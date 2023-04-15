@@ -1,0 +1,11 @@
+C:\Users\james\Downloads\Coding Stuff\Decomps\CD-Setup-Decomp\soniccd_setup\obj\x86\Debug\soniccd_setup.csproj.AssemblyReference.cache
+C:\Users\james\Downloads\Coding Stuff\Decomps\CD-Setup-Decomp\soniccd_setup\obj\x86\Debug\soniccd_setup.csproj.CoreCompileInputs.cache
+C:\Users\james\Downloads\Coding Stuff\Decomps\CD-Setup-Decomp\soniccd_setup\bin\Debug\soniccd_setup.exe
+C:\Users\james\Downloads\Coding Stuff\Decomps\CD-Setup-Decomp\soniccd_setup\bin\Debug\soniccd_setup.pdb
+C:\Users\james\Downloads\Coding Stuff\Decomps\CD-Setup-Decomp\soniccd_setup\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\james\Downloads\Coding Stuff\Decomps\CD-Setup-Decomp\soniccd_setup\bin\Debug\Microsoft.DirectX.dll
+C:\Users\james\Downloads\Coding Stuff\Decomps\CD-Setup-Decomp\soniccd_setup\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\james\Downloads\Coding Stuff\Decomps\CD-Setup-Decomp\soniccd_setup\bin\Debug\Microsoft.DirectX.xml
+C:\Users\james\Downloads\Coding Stuff\Decomps\CD-Setup-Decomp\soniccd_setup\obj\x86\Debug\soniccd_setup.csproj.CopyComplete
+C:\Users\james\Downloads\Coding Stuff\Decomps\CD-Setup-Decomp\soniccd_setup\obj\x86\Debug\soniccd_setup.exe
+C:\Users\james\Downloads\Coding Stuff\Decomps\CD-Setup-Decomp\soniccd_setup\obj\x86\Debug\soniccd_setup.pdb

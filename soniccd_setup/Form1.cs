@@ -48,7 +48,7 @@ namespace soniccd_setup
 				if (!this.availableModes.Exists(delegate(DisplayMode x)
 				{
 					int height = x.Height;
-					DisplayMode mode = mode;
+					DisplayMode displayMode = mode;
 					if (height == mode.Height)
 					{
 						int width = x.Width;
